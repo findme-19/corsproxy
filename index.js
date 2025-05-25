@@ -23,7 +23,7 @@ export default {
           <pre><code>https://workers.workers.dev/https://google.com</code></pre>
           <p>Example:</p>
           <pre><code>https://workers.workers.dev/https://google.com</code></pre>
-          <p>Source code available on <a href="https://github.com/findme-19">GitHub</a> 💻</p>
+          <p>Source code available on <a href="https://github.com/findme-19/corsproxy">GitHub</a> 💻</p>
         </body>
         </html>
       `, {
