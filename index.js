@@ -18,12 +18,12 @@ export default {
         </head>
         <body>
           <h1>🌐 CORS Proxy via Cloudflare Worker</h1>
-          <p>This proxy allows bypassing CORS for <code>https://api.macvendors.com</code>.</p>
+          <p>This proxy allows bypassing CORS for all sites.</p>
           <h3>Usage:</h3>
-          <pre><code>https://your-worker-name.workers.dev/https://api.macvendors.com/YOUR_MAC</code></pre>
+          <pre><code>https://workers.workers.dev/https://google.com</code></pre>
           <p>Example:</p>
-          <pre><code>https://your-worker-name.workers.dev/https://api.macvendors.com/44:38:39:FF:EF:57</code></pre>
-          <p>Source code available on GitHub 💻</p>
+          <pre><code>https://workers.workers.dev/https://google.com</code></pre>
+          <p>Source code available on <a href="https://github.com/findme-19">GitHub</a> 💻</p>
         </body>
         </html>
       `, {
